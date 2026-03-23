@@ -33,6 +33,8 @@ Salary Satisfaction Score
 
 <a href="https://github.com/zulusanele626-byte/data-analysis-Power-BI-dashBoard-/blob/main/Screenshot%202026-03-19%20144531.png">view dash </a>
 
+# Dash board 
+
 # processes 
 
 Data Collection 
