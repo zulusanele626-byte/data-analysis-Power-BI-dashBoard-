@@ -51,3 +51,19 @@ Visualization Enhancement
 
 # Dash Board 
 
+https://github.com/zulusanele626-byte/data-analysis-Power-BI-dashBoard-/blob/main/Screenshot%202026-03-19%20144531.png
+
+# project insight
+Highest Salaries by Role: Data Scientists earn the highest average salaries among all survey participants.
+
+Programming Language Popularity: Python is the most widely used language, followed by SQL and R.
+
+Geographic Distribution: Majority of respondents are from the United States.
+
+Job Satisfaction: Overall happiness scores are moderate, with work-life balance generally more positive than salary satisfaction.
+
+Trends by Demographics: Salary and satisfaction vary across age groups and roles, highlighting the importance of experience and job function.
+
+# conclusion
+
+This dashboard demonstrates how survey data from data professionals can provide actionable insights into compensation, skill demand, and job satisfaction trends. By combining interactive visuals, KPIs, and key insights, the dashboard allows stakeholders to understand patterns, make data-driven decisions, and identify opportunities for career development or organizational improvements.
