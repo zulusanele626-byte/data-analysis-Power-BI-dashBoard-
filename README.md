@@ -31,10 +31,8 @@ Salary Satisfaction Score
 
 # Dash Board Interaction 
 
-<a ">view dash </a>
+-<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fzulusanele626-byte%2FData-Analyst-DashBoard%2Frefs%2Fheads%2Fmain%2Fmy%2520own%2520project.xlsx&wdOrigin=BROWSELINK"> view Dash<a/>
 
-# Dash board 
-<img width="952" height="544" alt="Screenshot 2026-03-19 144531" src="https://github.com/user-attachments/assets/9690d8f3-2c26-448e-889d-3ccfd065ccb2" />
 
 # processes 
 
@@ -52,9 +50,9 @@ Insight Generation
 
 Visualization Enhancement 
 
-# Dash Board 
+# Dash board 
+<img width="952" height="544" alt="Screenshot 2026-03-19 144531" src="https://github.com/user-attachments/assets/9690d8f3-2c26-448e-889d-3ccfd065ccb2" />
 
-https://github.com/zulusanele626-byte/data-analysis-Power-BI-dashBoard-/blob/main/Screenshot%202026-03-19%20144531.png
 
 # project insight
 Highest Salaries by Role: Data Scientists earn the highest average salaries among all survey participants.
