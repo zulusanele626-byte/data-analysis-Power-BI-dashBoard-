@@ -18,8 +18,13 @@ To present insights through an interactive dashboard using Power BI Desktop
 # as Questions (KPIS):
 
 Total Participants
+
 Average Age
+
 Average Salary
+
 Top Programming Language
+
 Work-Life Balance Score
+
 Salary Satisfaction Score
