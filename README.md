@@ -28,3 +28,26 @@ Top Programming Language
 Work-Life Balance Score
 
 Salary Satisfaction Score
+
+# Dash Board Interaction 
+
+<a href="https://github.com/zulusanele626-byte/data-analysis-Power-BI-dashBoard-/blob/main/Screenshot%202026-03-19%20144531.png">view dash </a>
+
+# processes 
+
+Data Collection 
+
+Data Cleaning 
+
+Data Transformation 
+
+Data Analysis 
+
+Dashboard Creation 
+
+Insight Generation 
+
+Visualization Enhancement 
+
+# Dash Board 
+
