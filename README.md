@@ -31,9 +31,10 @@ Salary Satisfaction Score
 
 # Dash Board Interaction 
 
-<a href="https://github.com/zulusanele626-byte/data-analysis-Power-BI-dashBoard-/blob/main/Screenshot%202026-03-19%20144531.png">view dash </a>
+<a ">view dash </a>
 
 # Dash board 
+<img width="952" height="544" alt="Screenshot 2026-03-19 144531" src="https://github.com/user-attachments/assets/9690d8f3-2c26-448e-889d-3ccfd065ccb2" />
 
 # processes 
 
