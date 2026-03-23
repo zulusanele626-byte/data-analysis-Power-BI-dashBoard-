@@ -29,10 +29,6 @@ Work-Life Balance Score
 
 Salary Satisfaction Score
 
-# Dash Board Interaction 
-
--<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fzulusanele626-byte%2FData-Analyst-DashBoard%2Frefs%2Fheads%2Fmain%2Fmy%2520own%2520project.xlsx&wdOrigin=BROWSELINK"> view Dash<a/>
-
 
 # processes 
 
