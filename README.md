@@ -1,2 +1,6 @@
-# data-analysis-Power-BI-dashBoard-
-Built an interactive dashboard in Power BI Desktop to analyze data professional survey data. It highlights salary trends, programming preferences, and job satisfaction, providing insights into factors influencing career outcomes in the data industry.
+# Data Professional Survey Dashboard (Power BI)-
+To analyze survey data from data professionals across different countries
+To identify salary trends by job role and demographics
+To explore popular programming languages in the data industry
+To evaluate job satisfaction, including work-life balance and salary happiness
+To present insights through an interactive dashboard using Power BI Desktop
